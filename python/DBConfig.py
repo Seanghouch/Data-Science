@@ -1,4 +1,5 @@
-SERVER = ""
-DB = ""
-USER = ""
+SERVER = "10.20.10.112"
+DB = "STGBraumat"
+USER = "ERP.BI"
 PASSWORD = ""
+DRIVER = 'SQL Server'
